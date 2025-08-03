@@ -2,6 +2,7 @@
 
 > **本リポジトリは `bbc-golf-coaching-backend`（以下 *v1*）の拡張版です。**  
 > ベース部分は v1 README を参照し、本書では **追加・変更点のみ** をまとめます。
+> https://github.com/showheysas/bbc-golf-coaching-backend#readme-ov-file
 
 ---
 
