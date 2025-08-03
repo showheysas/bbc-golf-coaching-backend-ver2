@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1754218249144",
+    "phase": "インパクト",
+    "phaseCode": "IM",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803193147_U99999_IM_Mark_Mark_Mark.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803193147_U99999_IM_Mark_Mark_Mark.jpg?se=2025-08-03T13%3A31%3A41Z&sp=r&sv=2023-11-03&sr=b&sig=HgKFNpn7eWrgwTrs0csJsUOMEJb3NF%2B8c3DNDqNZJWg%3D",
+    "comment": "ｘｘｘｌｌｌｌ",
+    "timestamp": 0,
+    "createdAt": "2025-08-03T10:50:49.144Z",
+    "isConfirmed": false,
+    "lastUpdated": 1754219104030
+  },
+  {
+    "id": "1754219086457",
+    "phase": "トランジション",
+    "phaseCode": "TR",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803193147_U99999_TR_Mark.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803193147_U99999_TR_Mark.jpg?se=2025-08-03T13%3A31%3A41Z&sp=r&sv=2023-11-03&sr=b&sig=4Ep15v%2BMBo4u0TAXW0mAuS2xpo8N0JdhneRBdu3Wu04%3D",
+    "comment": "コメントのテストです。",
+    "timestamp": 0,
+    "createdAt": "2025-08-03T11:04:46.457Z",
+    "isConfirmed": false
+  },
+  {
+    "id": "1754220803776",
+    "phase": "トップ",
+    "phaseCode": "TP",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803193147_U99999_TP_Mark.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803193147_U99999_TP_Mark.jpg",
+    "comment": "コメントのサンプルです。さらに追加",
+    "timestamp": 0,
+    "createdAt": "2025-08-03T11:33:23.776Z",
+    "isConfirmed": false,
+    "lastUpdated": 1754220833237
+  }
+]

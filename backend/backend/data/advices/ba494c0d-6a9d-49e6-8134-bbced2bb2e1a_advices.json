@@ -1,0 +1,26 @@
+[
+  {
+    "phase": "フィニッシュ１",
+    "phaseCode": "F1",
+    "text": "ご視聴ありがとうございました",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250729005000_U99999_F1.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250729005000_U99999_F1.jpg?se=2025-08-03T09%3A26%3A44Z&sp=r&sv=2023-11-03&sr=b&sig=VVNG50h7vAmGmEySqA2yB41hfXxvFTjv73%2BXiVjrmuk%3D",
+    "timestamp": 0
+  },
+  {
+    "phase": "バックスイング",
+    "phaseCode": "BS",
+    "text": "バックスイングテストです\n",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250729005000_U99999_BS.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250729005000_U99999_BS.jpg?se=2025-08-03T09%3A28%3A03Z&sp=r&sv=2023-11-03&sr=b&sig=/AojnviBSwKiKXu6zPHimRrx8p6EGFxRw4lu8evkfR4%3D",
+    "timestamp": 0
+  },
+  {
+    "phase": "テイクバック",
+    "phaseCode": "TB",
+    "text": "テイクバック",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250729005000_U99999_TB.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250729005000_U99999_TB.jpg?se=2025-08-03T09%3A28%3A29Z&sp=r&sv=2023-11-03&sr=b&sig=QToQ2xj4hVM2ywEQqFf28ZD8LhE/Kht%2BFky4LiypAuo%3D",
+    "timestamp": 2.555349
+  }
+]

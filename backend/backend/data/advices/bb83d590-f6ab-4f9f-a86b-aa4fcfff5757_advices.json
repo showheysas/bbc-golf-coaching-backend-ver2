@@ -1,0 +1,28 @@
+[
+  {
+    "phase": "アドレス",
+    "phaseCode": "F1",
+    "text": "テストです。",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803181022_U99999_AD_Mark.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803181022_U99999_AD_Mark.jpg",
+    "timestamp": 0,
+    "lastUpdated": 1754214159775
+  },
+  {
+    "phase": "アドレス",
+    "phaseCode": "AD",
+    "text": "テストです。",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803181022_U99999_AD.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803181022_U99999_AD.jpg?se=2025-08-03T11%3A10%3A41Z&sp=r&sv=2023-11-03&sr=b&sig=uOyWbhz50n5opw%2B5A/hF/cerq7B%2BVUGbhJEGAFkdujM%3D",
+    "timestamp": 0
+  },
+  {
+    "phase": "トランジション",
+    "phaseCode": "F1",
+    "text": "",
+    "captureUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803181022_U99999_TR_Mark.jpg",
+    "captureSasUrl": "https://blobeastasiafor9th.blob.core.windows.net/bbc-test/20250803181022_U99999_TR_Mark.jpg",
+    "timestamp": 1754214248839,
+    "lastUpdated": 1754214248828
+  }
+]
